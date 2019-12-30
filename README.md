@@ -6,11 +6,9 @@ For the **Restaurant Reviews** project, convert a static webpage to a mobile-rea
 
 ## Run the Application
 
-In order to run the application you have some options:
+In order to run the application:
 
-1. Open it [here](https://rolln.github.io/fend-restaurant-reviews-app/)
-
-2. Run it localy
+Run it localy
 
 - Download as .zip file or clone this project:
 
@@ -24,17 +22,13 @@ In order to run the application you have some options:
 
 - With your server running, visit the site: `http://localhost:8000`.
 
-## This Project uses Google Map
+## This Project uses Google Maps
 
-- The Google Map api was used to nitializ the map in this project.
+- The Google Maps api was used to initializ the map in this project.
 
 ## Code Dependencies
 
 - [Project Restaurant Reviews (Stage 1)](https://github.com/udacity/mws-restaurant-stage-1)
-
-- [Project Restaurant Reviews (Stage 2)](https://github.com/udacity/mws-restaurant-stage-2)
-
-- [Project Restaurant Reviews (Stage 3)](https://github.com/udacity/mws-restaurant-stage-3)
 
 - [Normalize.css](https://necolas.github.io/normalize.css/)
 
